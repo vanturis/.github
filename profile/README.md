@@ -1,51 +1,46 @@
 # Vanturis UG (haftungsbeschränkt)
 
-Wir entwickeln  Webanwendungen, Unternehmenswebsites und digitale Plattformen für Unternehmen, Vereine und Start-ups.
+Webentwicklung, individuelle Software und Managed Hosting aus Deutschland.
 
-## Was wir tun
+Wir entwickeln Websites, Webanwendungen und digitale Plattformen für Unternehmen, Vereine und Start-ups. Zusätzlich betreiben wir Open-Source-Anwendungen als Managed Service auf Servern in Deutschland.
 
-* 🌐 Websites & Web-Portale
-* 💻 Individuelle Softwareentwicklung
-* ☁️ Managed Services
+## Leistungen
 
-Neben individuellen Projekten betreiben wir Open-Source-Lösungen wie Nextcloud, Vaultwarden, Paperless-ngx und weitere Anwendungen auf DSGVO-konformen Servern in Deutschland. Tägliche Backups, Monitoring und Wartung sind dabei inklusive.
+**Websites und Web-Portale**
+Unternehmenswebsites und Portale, von der Konzeption bis zum Betrieb.
 
-## Unsere Grundsätze
+**Individuelle Softwareentwicklung**
+Webanwendungen und Plattformen, zugeschnitten auf die Abläufe des Auftraggebers.
 
-* Persönlicher Support ohne Ticketsystem
-* DSGVO-konforme Lösungen
-* Deutsche Rechenzentren
-* Transparente Kommunikation
-* Nachhaltige und wartbare Software
+**Managed Services**
+Betrieb von Nextcloud, Vaultwarden, Paperless-ngx und weiteren Open-Source-Anwendungen auf DSGVO-konformen Servern in Deutschland. Tägliche Backups, Monitoring und Wartung sind inklusive.
+
+## Grundsätze
+
+- Persönlicher Support ohne Ticketsystem
+- DSGVO-konforme Lösungen
+- Rechenzentren in Deutschland
+- Transparente Kommunikation
+- Wartbare Software, die langfristig betrieben werden kann
 
 ## Technologien
 
-Je nach Projekt setzen wir moderne Technologien ein, darunter:
-
-* TypeScript
-* JavaScript
-* PHP
-* Node.js
-* React
-* Next.js
-* WordPress
-* Docker
-* Linux
-* PostgreSQL
-* MySQL
+| Bereich | Technologien |
+| --- | --- |
+| Sprachen | TypeScript, JavaScript, PHP |
+| Frameworks und CMS | React, Next.js, WordPress |
+| Laufzeit | Node.js |
+| Datenbanken | PostgreSQL, MySQL |
+| Infrastruktur | Docker, Linux |
 
 ## Team
 
-* Tjorven Hüther – Geschäftsführer
-* Tim Plate – Geschäftsführer
+Geschäftsführer: Tjorven Hüther und Tim Plate
 
 ## Kontakt
 
-📧 [info@vanturis.de](mailto:info@vanturis.de)
-📞 +49 (06734) 9155314
-
-🌍 https://vanturis.de
-
----
-
-Webentwicklung, individuelle Software und Managed Hosting aus Deutschland.
+| | |
+| --- | --- |
+| Website | [vanturis.de](https://vanturis.de) |
+| E-Mail | [info@vanturis.de](mailto:info@vanturis.de) |
+| Telefon | [+49 6734 9155314](tel:+4967349155314) |
